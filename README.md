@@ -11,8 +11,8 @@
 1. **开源框架**
 - [Jhipster初探](https://juejin.im/post/5e8fdd95f265da47ae4ac111)
 
-2.**业务**
+2. **业务**
 - [UEBA的初步认识和理解](https://juejin.im/post/5e8c28486fb9a03c947cc965)
 
-3.**Restful**
+3. **Restful**
 - [RestTemplete调用HttpsAPI报错和解决](https://juejin.im/post/5e946c3551882573680f333a)

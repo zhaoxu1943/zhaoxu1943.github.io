@@ -18,3 +18,6 @@
 
 3. **Restful**
 - [RestTemplete调用HttpsAPI报错和解决](https://juejin.im/post/5e946c3551882573680f333a)
+
+3. **JVM**
+- [两例相似的JVM OOM排查工作](https://juejin.cn/post/6911689649039605773/)

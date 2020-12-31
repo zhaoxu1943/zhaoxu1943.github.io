@@ -22,5 +22,8 @@
 4. **JVM**
 - [两例相似的JVM OOM排查工作](https://juejin.cn/post/6911689649039605773/)
 
-4. **MySQL**
+5. **MySQL**
 - [百万数据量关联查询的索引优化](https://juejin.cn/post/6912021312663879693/)
+
+6. **Kafka**
+- [SpringBoot集成Kafka的最佳实践Part1](https://juejin.cn/post/6912291742083465224)

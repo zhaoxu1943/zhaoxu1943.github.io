@@ -27,3 +27,7 @@
 
 6. **Kafka**
 - [SpringBoot集成Kafka的最佳实践Part1](https://juejin.cn/post/6912291742083465224)
+
+7. **ORM**
+- [通用mapper中的官方扩展与自定义扩展](https://juejin.cn/post/6912337713177821197)
+

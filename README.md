@@ -1,7 +1,7 @@
 ## 赵旭的博客
 
 ### 开源工程
-[JavaZ Project](https://github.com/zhaoxu1943/JavaZ)
+- [JavaZ Project](https://github.com/zhaoxu1943/JavaZ)
 是一直以来工作,学习,读书的积累工程
 #### 基础工程
 以SpringBoot项目为基础,集成各种中间件,如redis,kafka,mysql等,进行学习与测试使用,积累了各种手写工具类供工作学习中使用

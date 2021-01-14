@@ -39,6 +39,8 @@
 - [阿里JVM配置工具](https://render.alipay.com/p/s/jvm-generate/JvmGenerate)
 - [[JVM_5]GC日志,参数,以及内存分配和回收策略](https://juejin.cn/post/6844904031471534088)
 - [MacOS中编译OPENJDK13并DEBUG](https://juejin.cn/post/6844904031454773255)
+- [没事儿写个死锁吧](https://juejin.cn/post/6917502864151543822/)
+
 
 5. **Spring**
 - [SpringBoot单元测试](https://juejin.cn/post/6855129006892253197)

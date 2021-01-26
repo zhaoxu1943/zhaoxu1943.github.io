@@ -73,7 +73,7 @@
 - [机器学习-基于半监督和熵增原理的解析](https://juejin.cn/post/6898694775873273870)
 
 ### 优秀文章学习记录(原链接)
-- [MySQL-ICP-MySQL是如何优化模糊匹配like的SQL？](https://juejin.cn/post/6911101492497743879)
+- [MySQL-ICP-什么是索引下推？](https://juejin.cn/post/6844904017332535304)
 
 
 # 我的简历

@@ -20,6 +20,11 @@
 4. **Java语言特性**
 - [反射](https://juejin.cn/post/6844904088547622920)
 
+### LeetCode题解
+1. **DFS**
+- [LC104 二叉树的最大深度Java版本](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/lc104-er-cha-shu-de-zui-da-shen-du-javab-vjvv/)
+
+
 
 ### 工作篇
 1. **业务**

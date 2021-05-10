@@ -25,6 +25,8 @@
 ### LeetCode题解
 1. **DFS**
 - [LC104 二叉树的最大深度Java版本](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/lc104-er-cha-shu-de-zui-da-shen-du-javab-vjvv/)
+- [树的子结构:DFS解法](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/shu-de-zi-jie-gou-dfsjie-fa-by-zhaoxu194-0wpg/)
+
 2. **DP**
 - [剪绳子问题的DP算法](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/jian-sheng-zi-wen-ti-de-dpsuan-fa-by-zha-x9t2/)
 - [正则表达式的DP算法](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/solution/zheng-ze-biao-da-shi-de-dpsuan-fa-by-zha-hiq7/)

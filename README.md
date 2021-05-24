@@ -31,6 +31,10 @@
 - [剪绳子问题的DP算法](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/jian-sheng-zi-wen-ti-de-dpsuan-fa-by-zha-x9t2/)
 - [正则表达式的DP算法](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/solution/zheng-ze-biao-da-shi-de-dpsuan-fa-by-zha-hiq7/)
 
+3. **情景问题**
+- [画图找规律型问题:模拟边界解决问题](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/hua-tu-zhao-gui-lu-xing-wen-ti-mo-ni-bia-hw63/)
+
+
 ### 工作篇
 1. **业务**
 - [UEBA的初步认识和理解](https://juejin.im/post/5e8c28486fb9a03c947cc965)
@@ -56,6 +60,9 @@
 - [SpringBoot单元测试](https://juejin.cn/post/6855129006892253197)
 - [SpringCloud与Ribbon,Feign](https://juejin.cn/post/6844904151483154446)
 - [RestTemplete调用HttpsAPI报错和解决](https://juejin.cn/post/6844904126170710024)
+- [读Spring源码,写更好的代码_1](https://juejin.cn/post/6964334139138899981)
+
+
 
 6. **ORM**
 - [通用mapper中的官方扩展与自定义扩展](https://juejin.cn/post/6912337713177821197)

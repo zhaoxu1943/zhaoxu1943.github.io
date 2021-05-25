@@ -33,7 +33,7 @@
 
 3. **情景问题**
 - [画图找规律型问题:模拟边界解决问题](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/hua-tu-zhao-gui-lu-xing-wen-ti-mo-ni-bia-hw63/)
-
+- [由具体到抽象:推演出辅助栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/solution/you-ju-ti-dao-chou-xiang-tui-yan-chu-fu-qmcc9/)
 
 ### 工作篇
 1. **业务**

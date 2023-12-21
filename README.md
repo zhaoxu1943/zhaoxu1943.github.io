@@ -3,8 +3,7 @@
 ### 开源工程
 - [z-project](https://github.com/zhaoxu1943/z-project)
   
-是一直以来工作,学习,读书的积累工程
-
+  是一直以来工作,学习,读书的积累工程
   涉及Java,Python语言,涉及算法,NLP,学习demo,工程demo,读书demo等诸多内容
 
 - [maj-cal](https://github.com/zhaoxu1943/maj-cal)
@@ -55,7 +54,7 @@
 - [[JVM_5]GC日志,参数,以及内存分配和回收策略](https://juejin.cn/post/6844904031471534088)
 - [MacOS中编译OPENJDK13并DEBUG](https://juejin.cn/post/6844904031454773255)
 - [没事儿写个死锁吧](https://juejin.cn/post/6917502864151543822/)
--  [NoSuchMethodException.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/NoSuchMethodException.md)
+- [NoSuchMethodException.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/NoSuchMethodException.md)
 
 
 5. **Spring**
@@ -63,12 +62,9 @@
 - [SpringCloud与Ribbon,Feign](https://juejin.cn/post/6844904151483154446)
 - [RestTemplete调用HttpsAPI报错和解决](https://juejin.cn/post/6844904126170710024)
 - [读Spring源码,写更好的代码_1](https://juejin.cn/post/6964334139138899981)
-
--  [Feign开发经验.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/Feign开发经验.md)
-
--  [ZK高版本适应3.4.14.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/ZK高版本适应3.4.14.md)
-
--  [微服务监控选型.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/微服务监控选型.md)
+- [Feign开发经验.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/Feign开发经验.md)
+- [ZK高版本适应3.4.14.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/ZK高版本适应3.4.14.md)
+- [微服务监控选型.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/微服务监控选型.md)
 
 6. **ORM**
 - [通用mapper中的官方扩展与自定义扩展](https://juejin.cn/post/6912337713177821197)
@@ -81,8 +77,7 @@
 
 8. **MySQL**
 - [百万数据量关联查询的索引优化](https://juejin.cn/post/6912021312663879693/)
-
--  [PG指定ID导致主键不自增的问题.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/PG指定ID导致主键不自增的问题.md)
+- [PG指定ID导致主键不自增的问题.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/PG指定ID导致主键不自增的问题.md)
 
 9. **Kafka**
 - [SpringBoot集成Kafka的最佳实践Part1](https://juejin.cn/post/6912291742083465224)
@@ -99,14 +94,9 @@
 - [机器学习-基于半监督和熵增原理的解析](https://juejin.cn/post/6898694775873273870)
 
 13. **Elasticsearch**
-
--  [ESslowlog排查原因分析解决方案.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/ESslowlog%E6%8E%92%E6%9F%A5%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
-
+- [ESslowlog排查原因分析解决方案.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/ESslowlog%E6%8E%92%E6%9F%A5%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 - [一次部署到服务器上的ES搜不到的情况排查.md](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/一次部署到服务器上的ES搜不到的情况排查.md)
 
-  
-
-   
 
 
 ### 优秀文章学习记录(原链接)

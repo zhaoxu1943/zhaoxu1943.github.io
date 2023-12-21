@@ -1,16 +1,16 @@
 ## [赵旭的博客](https://zhaoxu1943.github.io)
 
 ### 开源工程
-- [JavaZ Project](https://github.com/zhaoxu1943/JavaZ)
-是一直以来工作,学习,读书的积累工程
-(最近github网总是不好,转移到gitee维护:[JavaZ Project Gitee](https://gitee.com/zhaoxu1943/JavaZ))
+- [z-project](https://github.com/zhaoxu1943/z-project)
+  是一直以来工作,学习,读书的积累工程
 
-#### 基础工程
-以SpringBoot项目为基础,集成各种中间件,如redis,kafka,mysql等,进行学习与测试使用,积累了各种手写工具类供工作学习中使用
-#### practice
-在practice包中,是平时做的练习的积累,包括数据结构算法,设计模式,ELK套件,Java语言特性,JavaIO,Netty,Java源码阅读,JVM,Kafka,Spring等的DEMO代码
-#### readbooks
-在readbooks包中,是读书时遇到的思考题或者读书实践代码等,目前为4本书创建了文件夹,分别为Effetive Java,剑指offer,Think in Java,图解算法
+  涉及Java,Python语言,涉及算法,NLP,学习demo,工程demo,读书demo等诸多内容
+
+- [maj-cal](https://github.com/zhaoxu1943/maj-cal)
+
+  OCR计算立直麻将点数,供好友间娱乐使用
+
+
 
 ### 学习篇
 1. **算法和数据结构**

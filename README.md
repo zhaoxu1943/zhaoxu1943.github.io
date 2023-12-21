@@ -85,6 +85,7 @@
 
 11. **dubbo**
 - [dubbo特性,机制和与SpringBoot结合](https://juejin.cn/post/6844904195733078024/)
+- [dubbo知识](https://github.com/zhaoxu1943/zhaoxu1943.github.io/blob/master/Dubbo%E5%88%86%E4%BA%AB.md)
 
 12. **专利**
 - [机器学习-基于半监督和熵增原理的解析](https://juejin.cn/post/6898694775873273870)
